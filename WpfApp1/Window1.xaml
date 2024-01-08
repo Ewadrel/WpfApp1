@@ -7,8 +7,8 @@
         mc:Ignorable="d"
         Title="DialogChoixPaysage" Height="250" Width="400">
     <Grid>
-        <Button x:Name="fondété" Content="Button" HorizontalAlignment="Left" Margin="99,58,0,0" VerticalAlignment="Top" Height="100" Width="80"/>
-        <Button x:Name="fondhiver" Content="Button" HorizontalAlignment="Left" Margin="227,58,0,0" VerticalAlignment="Top" Height="100" Width="80"/>
+        <Button x:Name="fondété" Content="" HorizontalAlignment="Left" Margin="99,58,0,0" VerticalAlignment="Top" Height="100" Width="80"/>
+        <Button x:Name="fondhiver" Content="" HorizontalAlignment="Left" Margin="227,58,0,0" VerticalAlignment="Top" Height="100" Width="80"/>
 
     </Grid>
 </Window>
