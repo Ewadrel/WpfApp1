@@ -23,6 +23,9 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
+            ImageBrush imgVoiture = new ImageBrush();
+            imgVoiture.ImageSource = new BitmapImage(new Uri(AppDomain.CurrentDomain.BaseDirectory + "img\\voiture.png"));
+            voiture.Fill = imgVoiture;
         }
     }
 }
